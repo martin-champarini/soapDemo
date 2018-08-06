@@ -1,7 +1,7 @@
 hello\wsdl\Country.class
 com\soap\client\SoapClientApplication.class
+hello\wsdl\package-info.class
 hello\wsdl\GetCountryRequest.class
 hello\wsdl\ObjectFactory.class
 hello\wsdl\GetCountryResponse.class
 hello\wsdl\Currency.class
-hello\wsdl\package-info.class

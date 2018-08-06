@@ -1,7 +1,7 @@
 com\soap\server\SoapServerApplication.class
-io\spring\guides\gs_producing_web_service\Country.class
-io\spring\guides\gs_producing_web_service\ObjectFactory.class
-io\spring\guides\gs_producing_web_service\GetCountryRequest.class
-io\spring\guides\gs_producing_web_service\package-info.class
-io\spring\guides\gs_producing_web_service\Currency.class
-io\spring\guides\gs_producing_web_service\GetCountryResponse.class
+localhost\_8080\soap_server\Currency.class
+localhost\_8080\soap_server\GetCountryRequest.class
+localhost\_8080\soap_server\ObjectFactory.class
+localhost\_8080\soap_server\package-info.class
+localhost\_8080\soap_server\Country.class
+localhost\_8080\soap_server\GetCountryResponse.class

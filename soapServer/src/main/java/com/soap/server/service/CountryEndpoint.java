@@ -12,7 +12,7 @@ import com.soap.server.model.GetCountryResponse;
 
 @Endpoint
 public class CountryEndpoint {
-    private static final String NAMESPACE_URI = "http://spring.io/guides/gs-producing-web-service";
+    private static final String NAMESPACE_URI = "http://localhost:8080/soap-server";
 
     private CountryRepository countryRepository;
 
